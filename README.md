@@ -1,4 +1,5 @@
 # student-of-Biet
 
 <br>
-Author-Nandini chaurasiya
+Author-Nandini (student of biet)
+ 
