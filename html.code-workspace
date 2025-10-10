@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../.vscode"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		"git.enableCommitSigning": true,
+		"git.enableSmartCommit": true,
+		"git.terminalGitEditor": true
+	}
+}

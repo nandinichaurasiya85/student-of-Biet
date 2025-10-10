@@ -1,3 +1,7 @@
-p {
-    color: red;
-}
+
+<style>
+        body {
+            background-color: rgb(213, 213, 233);
+            color: rgb(33, 89, 146);
+        }
+    </style>
